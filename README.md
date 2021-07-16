@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+안녕하세요!
+싸피 6기에서 열심히 코딩하고 있는 seojp8833입니다
+
 <!--
 **seojp8833/seojp8833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
